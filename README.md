@@ -20,15 +20,13 @@ Below, we describe each of the Stata .do files. These .do files use the special 
 •	Estimates the study population characteristics by race and ethnicity. 
 •	Produces results for Table 1 and Table S1. 
 
-### analysis.do*
+### analysis.do
 •	Estimates the annual prevalence of barriers to timely medical care by race and ethnicity, along with its racial/ethnic differences, annualized rate of change, and absolute change from 1999 to 2018. 
 •	Produces results for Table 2, Tables S2-S8, Figures 1-3, and Figures S2-S8.
 
-### figures.do*
+### figures.do
 •	Produces Figures 1-3 and Figures S2-S8.     
 
-
-* This .do file uses the special bookmark comment **# to facilitate the inspection of its contents using Stata's Do-file Editor Navigation Control.
 
 ### Reference: 
 1. Lynn A. Blewett, Julia A. Rivera Drew, Miriam L. King and Kari C.W. Williams. IPUMS Health Surveys: National Health Interview Survey, Version 6.4 [dataset]. Minneapolis, MN: IPUMS, 2019. https://doi.org/10.18128/D070.V6.4 
